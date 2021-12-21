@@ -25,7 +25,11 @@
       "url"  => "https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap"),
     "titanone" => array(
       "name" => "Titan One",
-      "url"  => "https://fonts.googleapis.com/css2?family=Titan+One&display=swap")
+      "url"  => "https://fonts.googleapis.com/css2?family=Titan+One&display=swap"),
+    "rock3d" => array(
+      "name" => "Rock 3D",
+      "url"  => "https://fonts.googleapis.com/css2?family=Rock+3D&display=swap")
+  
   );
 
   // Otsakkeen taustat aakkosjärjestyksessä.
